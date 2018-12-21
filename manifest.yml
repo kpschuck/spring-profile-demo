@@ -1,0 +1,4 @@
+---
+applications:
+- name: profile-demo
+  instances: 1
